@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav-bar{
+    background-color:  #82A67D;
+    display: flex;
+    padding: 12px;
+    color: white;
+}
+.nav-bar-com{
+    display: flex;
+    margin: 4px 10px 0px 500px;
+}
+.nav-bar-com h6{
+   margin: 0px 0px 0px 20px;
+   border: none;
+  outline: none;
+ 
+}
